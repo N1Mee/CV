@@ -3,7 +3,11 @@
 ## Nikita Mishchenko
 ![My picture]("C:\Users\GamerOne\Pictures\me\IMG_3270.jpg")
 
+## About me
+
 I am a *hardworking* student, who is always ready to stay after classes and complete an extra task. For the last few years I didn't even have proper holidays due to me being and olympiad participant in English Language. While my classmates were relaxing on their holidays and being couch potatoes, I was attending school in the morning and stayed there for *4 hours*.
+
+## My skills
 
 * My time management is great.
     + Even though I always have a lot work to do, I have planned all of it out perfectly, so I manage to do everything and still get the right amount of rest, which is necessary, since otherwise my productivity will drop drastically
@@ -13,6 +17,7 @@ I am a *hardworking* student, who is always ready to stay after classes and comp
     + I have been studying code for over *2 years* now and I'm not planning to stop. I know **HTML**, **CSS**, **JavaScript** and I am targeting to learn **Node.js** and **React** in the near future
 
 ## Here is an example of my code:
+
 ```
 start.addEventListener('click', startGame)
 
