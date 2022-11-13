@@ -1,7 +1,7 @@
 # My CV
 
 ## Nikita Mishchenko
-![My picture](https://ibb.co/LgcQ3GL "My picture")
+![My picture](https://i.postimg.cc/mrCQhg9m/IMG-3270.webp "My picture")
 
 I am a *hardworking* student, who is always ready to stay after classes and complete an extra task. For the last few years I didn't even have proper holidays due to me being and olympiad participant in English Language. While my classmates were relaxing on their holidays and being couch potatoes, I was attending school in the morning and stayed there for *4 hours*.
 
@@ -31,8 +31,8 @@ I am a *hardworking* student, who is always ready to stay after classes and comp
 ```
 
 ## And here is the result:
-![result-1](https://ibb.co/6wYRd6w "result-1")
-![result-2](https://ibb.co/zmsK0cT "result-2")
+![result-1](https://i.postimg.cc/zX4bW186/Screenshot-2022-11-13-172444.png "result-1")
+![result-2](https://i.postimg.cc/wT1R7B8D/Screenshot-2022-11-13-172526.png "result-2")
 
 ## My work experience
 
