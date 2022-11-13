@@ -31,8 +31,8 @@ I am a *hardworking* student, who is always ready to stay after classes and comp
 ```
 
 ## And here is the result:
-![result-1](https://i.postimg.cc/zX4bW186/Screenshot-2022-11-13-172444.png "result-1")
-![result-2](https://i.postimg.cc/wT1R7B8D/Screenshot-2022-11-13-172526.png "result-2")
+![result-1](https://i.postimg.cc/zX4bW186/Screenshot-2022-11-13-172444.png "result-1") ![result-2](https://i.postimg.cc/wT1R7B8D/Screenshot-2022-11-13-172526.png "result-2")
+
 
 ## My work experience
 
